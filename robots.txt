@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /chat/
+Disallow: /chat
+Sitemap: https://anonim-chat.ru/sitemap.xml 
